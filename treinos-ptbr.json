@@ -1,4 +1,9 @@
 [
   {
+    "id": 1,
+    "name": "Rosca Martelo",
+    "description": "A rosca martelo é um exercício de resistência que serve para maximizar o ganho de massa muscular ou hipertrofia do bíceps, além de fortalecer os antebraços e melhorar a força de preensão.",
+    "tipoTreinoId": 1,
+    "treinoDifficulty": 1
   }
 ]
